@@ -1,0 +1,33 @@
+|-------------------------------------------------------|
+|   Avengers Status Report                              |
+|                                                       |
+|   SITUATION CRITICAL - RTB AVENGERS HQ IMMEDIATELY    |
+|   29 March 2018                                       |
+|-------------------------------------------------------|
+
+iron man<alive>(titan)
+doctor strange<missing>(titan)
+spiderman<missing>(titan)
+thor<alive>(wakanda)
+nebula<alive>(titan)
+black widow<missing>(wakanda)
+groot<missing>(wakanda)
+starlord<missing>(titan)
+mantis<missing>(titan)
+drax<missing>(titan)
+captain america<alive>(wakanda)
+falcon<missing>(wakanda)
+war machine<alive>(wakanda)
+winter soldier<missing>(wakanda)
+black panther<missing>(wakanda)
+scarlett witch<alive>(wakanda)
+hulk<alive>(wakanda)
+ant-man<alive>(unknown)
+wasp<missing>(san francisco)
+vision<dead>(wakanda)
+hawkeye<alive>(unknown)
+thor<alive>(wakanda)
+gamora<dead>(vormir)
+nick fury<missing>(atlanta)
+maria hill<missing>(atlanta)
+rocket<alive>(wakanda)
